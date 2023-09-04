@@ -1,0 +1,5 @@
+requests
+tqdm
+pydrive
+os
+from dotenv import load_dotenv
